@@ -1,6 +1,6 @@
-<div align="center">
+
 ![Flappy Bird](img/cover.png)
-</div>
+
 
 <div align="center">
 
