@@ -1,11 +1,10 @@
-<p align="center">
+<div align="center">
 ![Flappy Bird](img/cover.png)
-</p>
+</div>
 
 <div align="center">
 
-[![GitHub contributors](https://img.shields.io/github/contributors/gaserashraf/
-Flappy-Bird)](https://github.com/gaserashraf/Flappy-Bird/contributors)
+[![GitHub contributors](https://img.shields.io/github/contributors/gaserashraf/Flappy-Bird)](https://github.com/gaserashraf/Flappy-Bird/contributors)
 [![GitHub issues](https://img.shields.io/github/issues/gaserashraf/Flappy-Bird)](https://github.com/gaserashraf/Flappy-Bird/issues)
 [![GitHub forks](https://img.shields.io/github/forks/gaserashraf/Flappy-Bird)](https://github.com/gaserashraf/Flappy-Bird/network)
 [![GitHub stars](https://img.shields.io/github/stars/gaserashraf/Flappy-Bird)](https://github.com/gaserashraf/Flappy-Bird/stargazers)
