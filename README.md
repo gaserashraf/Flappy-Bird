@@ -14,3 +14,9 @@
 
 # Flappy-Bird
 Flappy Bird is a game where a side-scroller where the player controls a bird, attempting to fly between columns of yellow pipes without hitting them.
+## Build with
+* HTML5 * canvas
+## 📷Screen Shots
+![1](img/test.PNG)
+![2](img/gif.gif)
+
