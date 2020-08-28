@@ -1,0 +1,24 @@
+{
+  "name": "flappy-bird",
+  "version": "1.0.0",
+  "description": "Flappy Bird is a game where a side-scroller where the player controls a bird, attempting to fly between columns of yellow pipes without hitting them.",
+  "main": "javascript.js",
+  "scripts": {
+    "test": "1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaserashraf/Flappy-Bird.git"
+  },
+  "keywords": [
+    "\u0016javascript",
+    "canvas",
+    "html5"
+  ],
+  "author": "Gaser Ashraf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gaserashraf/Flappy-Bird/issues"
+  },
+  "homepage": "https://github.com/gaserashraf/Flappy-Bird#readme"
+}
